@@ -1,0 +1,20 @@
+.jumbotron {
+  padding: 100px;
+  background-image: url("./bgr.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ff0000;
+}
+h1 {
+  /* font-family: 'Courier New', Courier, monospace; */
+  font-family: 'Righteous', cursive;
+  font-size: 4em;
+  text-shadow: 2px 2px yellowgreen;
+  /* text-shadow: 2px 2px #ff0000; */
+}
+
+h2 {
+  font-family: 'Righteous', cursive;
+  /* text-shadow: 2px 2px yellowgreen; */
+  font-size: 2.5em
+}
